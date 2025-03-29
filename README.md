@@ -1,6 +1,6 @@
 # Quick Start
 
-## The soure code of the paper "MATERIAL-GUIDED SIAMESE FUSION NETWORK FOR HYPERSPECTRAL OBJECT TRACKING".
+## The soure code of the paper "Material-Guided Siamese Fusion Network for Hyperspectral Object Tracking".
 
 ## 1. Environment requirements & Dataset
 Please follows: https://github.com/hscv/SEE-Net.
