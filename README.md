@@ -1,9 +1,12 @@
 # Quick Start
-## 1. Add SiamF to your PYTHONPATH
-export PYTHONPATH=$PWD:$PYTHONPATH
 
-## 2. Requirements & Dataset
+## The soure code of the paper "MATERIAL-GUIDED SIAMESE FUSION NETWORK FOR HYPERSPECTRAL OBJECT TRACKING".
+
+## 1. Environment requirements & Dataset
 Please follows: https://github.com/hscv/SEE-Net.
+
+## 2. Add SiamF to your PYTHONPATH
+export PYTHONPATH=$PWD:$PYTHONPATH
 
 ## 3. Train
 (a) cd first_trained_HFF/
